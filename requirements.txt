@@ -1,0 +1,4 @@
+pandas==2.0.2
+protobuf==4.23.2
+termcolor==2.3.0
+tqdm==4.65.0
