@@ -24,9 +24,9 @@ All extracted data is then compiled into a pandas DataFrame, which is then expor
 ## Usage
 Run the script from the command line, passing in your Google Cloud Project ID as an argument. For example:
 
-´´´bash
+```bash
 python bq_metadata_extraction.py your-project-id
-´´´
+```
 
 Replace `your-project-id` with the ID of your actual Google Cloud project. 
 The script will create a CSV file named `bigquery_results.csv` in the same directory, containing metadata for all tables in the project.
@@ -43,9 +43,9 @@ The script requires the following Python packages:
 
 Ensure these are installed in your Python environment before running the script. You can install them with pip:
 
-´´´bash
+```bash
 pip install pandas tqdm termcolor google-cloud-bigquery
-´´´
+```
 
 ## Authorization
 Before running the script, ensure that you're authenticated with Google Cloud and have the necessary permissions to access the BigQuery project and datasets.
