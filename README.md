@@ -1,5 +1,7 @@
 # BigQuery Table Metadata Extraction Script
 
+![an-eagle-observing-an-herd-of-animals-while-flying-in-the-sky- (1)](https://github.com/robertocommit/BigQueryEagleView/assets/30242227/30ac9100-1c66-4eed-92e7-12cec35f4fc1)
+
 ## Overview
 
 This script serves a crucial role in understanding the state of data within a Google Cloud BigQuery project. 
