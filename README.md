@@ -25,7 +25,7 @@ All extracted data is then compiled into a pandas DataFrame, which is then expor
 Run the script from the command line, passing in your Google Cloud Project ID as an argument. For example:
 
 ```bash
-python bq_metadata_extraction.py your-project-id
+python main.py your-project-id
 ```
 
 Replace `your-project-id` with the ID of your actual Google Cloud project. 
